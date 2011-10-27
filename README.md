@@ -23,7 +23,7 @@ https://github.com/crazysim/Gold-Checkbox-Checker/raw/master/gold_checkbox_check
 Install the [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 extension if you do not have it installed and click the link below after it is installed.
 Follow through with the instructions to install it. For uninstallation, 
-please read [this](http://techie-buzz.com/how-to/uninstall-remove-greasemonkey-scripts.html)
+please read [this how-to](http://techie-buzz.com/how-to/uninstall-remove-greasemonkey-scripts.html)
 on how to uninstall scripts.
 
 https://github.com/crazysim/Gold-Checkbox-Checker/raw/master/gold_checkbox_checker.user.js
