@@ -11,7 +11,7 @@ browser's extension or userscript uninstallation procedures.
 
 ## Chrome
 
-Click the link below, press continue on the download widget on the toolbar, and
+Click the link below, press continue on the download widget on the download bar, and
 click install. For uninstallation, uninstall this script as if you would
 uninstall a Chrome extension for which you can see [Chrome's documentation]
 (http://www.google.com/support/chrome/bin/answer.py?answer=113907) for details. 
