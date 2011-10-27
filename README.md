@@ -1,11 +1,11 @@
 # UCSB GOLD Login Box Checker
 
-This script checks the checkbox on UCSB GOLD's login page. Source code is
-bundled for the user's persual and for those who would like to audit this.
-I honestly suggest looking at it as the script does do things on a page that handles
- sensitive login details, however small that thing may be (2 lines). 
+This script checks the checkbox on UCSB GOLD's login page. The source for this
+script is only two lines of code and you should audit the script before installation 
+if you have any concerns as it does do things on a page where sensitive login
+information is put in.
 
-This script has been tested on Chrome. It should work for Firefox (with
+The script was tested and developed on Chrome. It should work for Firefox (with
 Greasemonkey) and Opera as well. If the script breaks the login, follow your
 browser's extension or userscript uninstallation procedures.
 
