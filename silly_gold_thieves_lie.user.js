@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name UCSB GOLD Login Checkbox Auto checker
+// @name UCSB GOLD Login Checkbox Checker
 // @match https://my.sa.ucsb.edu/gold/login.aspx
 // @description GOLD, thieves lie. I am not better protected. Just more annoyed.
 // ==/UserScript==
